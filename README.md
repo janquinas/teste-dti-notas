@@ -1,7 +1,9 @@
 # Sistema de Gestão de Notas e Frequência
 
-##  Descrição do Projeto
-Este projeto consiste em um sistema web simples para gestão de **notas** e **frequência** de alunos, desenvolvido para atender ao **Teste Prático – dti digital**.
+##  Sobre o Projeto
+Este projeto foi criado como parte do **Teste Prático – dti digital**.
+A ideia: ajudar um professor a organizar notas e frequência dos alunos de forma prática, clara e automática.
+O sistema permite inserir os dados dos alunos e, a partir disso, visualizar médias e identificar rapidamente quem precisa de mais atenção.
 
 O sistema permite que um professor:
 - Cadastre alunos
@@ -11,7 +13,7 @@ O sistema permite que um professor:
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 - Cadastro de alunos
 - Entrada de 5 notas por aluno
 - Entrada da frequência em percentual
@@ -29,7 +31,7 @@ O sistema permite que um professor:
 - Navegador web atualizado
 - Ambiente local para execução de aplicações web 
 
-### Passos
+### Passo a Passo
 1. Clone este repositório:
    ```bash
    git clone https://github.com/janquinas/teste-dti-notas.git
@@ -47,8 +49,6 @@ O sistema permite que um professor:
 Para cada aluno:
 - Média das notas
 - Frequência
-
-Além disso:
 - Média da turma em cada disciplina
 - Lista de alunos com média acima da média da turma
 - Lista de alunos com frequência abaixo de 75%
@@ -57,7 +57,7 @@ Além disso:
 
 ---
 
-## Premissas Assumidas
+## O sistema mostra:
 - Todas as notas são valores numéricos entre **0 e 10**
 - A frequência é informada como percentual
 - O número de alunos não possui limite fixo
@@ -66,10 +66,10 @@ Além disso:
 ---
 
 ## Decisões de Projeto
-- A lógica de cálculo foi implementada manualmente, sem bibliotecas externas para regras de negócio
-- Interface simples, priorizando clareza e funcionalidade
+- A lógica de cálculo foi feita sem bibliotecas externas para regras de negócio
+- Interface simples, com clareza e funcionalidade
 - Separação entre lógica de cálculo e exibição dos dados
-- Estrutura pensada para fácil manutenção e extensão
+- Estrutura pensada para fácil leitura
 
 ---
 
@@ -80,4 +80,4 @@ Além disso:
 ---
 
 ## Observações Finais
-Este projeto foi desenvolvido com foco em atender todos os requisitos propostos no teste prático, priorizando clareza de código, lógica bem definida e facilidade de uso.
+Este projeto foi desenvolvido com foco em atender exatamente ao que foi pedido no teste prático, mantendo o código simples, organizado e fácil de entender.
