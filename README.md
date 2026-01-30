@@ -39,8 +39,7 @@ O sistema permite que um professor:
    cd teste-dti-notas
    ```
 3. Execute o projeto conforme a stack utilizada:
-   - **PHP**: coloque o projeto em um servidor local (ex.: XAMPP, WAMP) e acesse via navegador
-   - **HTML/JS**: abra o arquivo `index.html` no navegador
+   - **PHP**: coloque o projeto em um servidor local (ex.: XAMPP, WAMP) e acesse via navegador.
 
 ---
 
