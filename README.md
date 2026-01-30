@@ -27,7 +27,7 @@ O sistema permite que um professor:
 
 ### Pré-requisitos
 - Navegador web atualizado
-- Ambiente local para execução de aplicações web (ex.: PHP + servidor local, ou apenas HTML/JS se aplicável)
+- Ambiente local para execução de aplicações web 
 
 ### Passos
 1. Clone este repositório:
