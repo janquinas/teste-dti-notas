@@ -1,4 +1,4 @@
-# Sistema de Gestão de Notas e Frequência
+# Sistema de Notas e Frequência
 
 ##  Sobre o Projeto
 Este projeto foi criado como parte do **Teste Prático – dti digital**.
